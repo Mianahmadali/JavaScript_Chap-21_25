@@ -1,0 +1,17 @@
+header, footer {
+    background-color: #002d5c; /* Dark blue color */
+    color: white; /* Text color */
+   
+    text-align: center;
+}
+main {
+    min-height: calc(100vh - 96px);
+     /* Full viewport height minus header and footer */
+    background-color:  #f5fce8;
+  }
+  
+/* body{background-color: #f5fce8;} */
+.boxcolor{ background-color: #002d5c; /* Dark blue color */
+    color: white; /* Text color */
+   
+    text-align: center;}
